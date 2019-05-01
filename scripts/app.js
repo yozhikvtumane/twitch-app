@@ -1,4 +1,4 @@
-const followersUrl = 'https://api.twitch.tv/helix/users/follows?first=100&from_id=' //concat with userUrl
+const followersUrl = 'https://api.twitch.tv/helix/users/follows?first=100&from_id='
 const userUrl = 'https://api.twitch.tv/helix/users?id='
 const userLoginUrl = 'https://api.twitch.tv/helix/users?login='
 const streamUrl = 'https://api.twitch.tv/helix/streams?user_id='
